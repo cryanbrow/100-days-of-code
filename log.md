@@ -8,7 +8,7 @@
 
 **Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
 
-
+--- 
 ### Day 2: January 1, 2022
 
 **Today's Progress**: Added Unit tests to the dad joke CLI, mocked out the calls to the back end service.
@@ -20,4 +20,4 @@
 **Links to tutorials followed**:
 
 1. [Mocking Guide](https://levelup.gitconnected.com/mocking-outbound-http-calls-in-golang-9e5a044c2555)
-2. [Unit Tests](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package)
+2. [Unit Tests](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package) 
