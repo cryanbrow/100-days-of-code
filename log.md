@@ -8,6 +8,7 @@
 
 **Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
 
+
 ### Day 2: January 1, 2022
 
 **Today's Progress**: Added Unit tests to the dad joke CLI, mocked out the calls to the back end service.
