@@ -21,3 +21,17 @@
 
 1. [Mocking Guide](https://levelup.gitconnected.com/mocking-outbound-http-calls-in-golang-9e5a044c2555)
 2. [Unit Tests](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package) 
+
+--- 
+### Day 3: January 2, 2022
+
+**Today's Progress**: Created my Eve Online graphql server from my graphql schema I had built in the past.
+
+**Thoughts:** cqlgen is a life saver. The fact that it builds out your objects from your schema and sets up resolvers and everything. It's just incredible. The task of building resolvers is still going to be daunting for a schema the size of the one that I have but it will be fun. I don't know how unit testing for generated code works. I don't know if the best approach would be to ignore it? Feels like unit testing generated code is chasing a moving target. I'll search around tomorrow and see what people say.
+
+**Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to tutorials followed**:
+
+1. [cqlgen guide](https://gqlgen.com/getting-started/)
+2. [appending to slices](https://go.dev/tour/moretypes/15) 
