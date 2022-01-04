@@ -37,7 +37,7 @@
 2. [appending to slices](https://go.dev/tour/moretypes/15) 
 
 --- 
-### Day 3: January 2, 2022
+### Day 4: January 3, 2022
 
 **Today's Progress**: I converted my schema over to snake case and implemented the ordersForRegion resolver.
 
