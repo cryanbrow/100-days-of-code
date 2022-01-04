@@ -29,9 +29,22 @@
 
 **Thoughts:** cqlgen is a life saver. The fact that it builds out your objects from your schema and sets up resolvers and everything. It's just incredible. The task of building resolvers is still going to be daunting for a schema the size of the one that I have but it will be fun. I don't know how unit testing for generated code works. I don't know if the best approach would be to ignore it? Feels like unit testing generated code is chasing a moving target. I'll search around tomorrow and see what people say.
 
-**Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to tutorials followed**:
 
 1. [cqlgen guide](https://gqlgen.com/getting-started/)
 2. [appending to slices](https://go.dev/tour/moretypes/15) 
+
+--- 
+### Day 3: January 2, 2022
+
+**Today's Progress**: I converted my schema over to snake case and implemented the ordersForRegion resolver.
+
+**Thoughts:** With the json implementation in the auto generated go code wanting snake case and me not wanting to modify the finals every time I built them I updated the schema. I created a resolver that only pulls the first page but that works for now. Next is caching.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to tutorials followed**:
+
+1. [int to string](https://golang.cafe/blog/golang-int-to-string-conversion-example.html)
