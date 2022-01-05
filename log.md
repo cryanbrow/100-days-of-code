@@ -48,3 +48,19 @@
 **Links to tutorials followed**:
 
 1. [int to string](https://golang.cafe/blog/golang-int-to-string-conversion-example.html)
+
+--- 
+### Day 5: January 4, 2022
+
+**Today's Progress**: I added a data access layer, iterated through pages, learned url.URL for building dynamic urls and struggled conditional statements.
+
+**Thoughts:** It's really important to not overlook a != and mistake it for a ==. That cost me like 15 minutes of my life. url.URL makes calling APIs so much easier, I'm glad I took the time to do it instead of just concatenating strings.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to tutorials followed**:
+
+1. [slice append](https://yourbasic.org/golang/append-explained/)
+2. [for loop](https://yourbasic.org/golang/for-loop/)
+3. [URL buildup](https://pkg.go.dev/net/url#URL)
+4. [query resolvers](https://gqlgen.com/reference/resolvers/)
