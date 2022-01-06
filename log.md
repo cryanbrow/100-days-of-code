@@ -17,7 +17,7 @@
 
 **Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
 
-**Links to tutorials followed**:
+**Links to references used**:
 
 1. [Mocking Guide](https://levelup.gitconnected.com/mocking-outbound-http-calls-in-golang-9e5a044c2555)
 2. [Unit Tests](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package) 
@@ -31,7 +31,7 @@
 
 **Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
-**Links to tutorials followed**:
+**Links to references used**:
 
 1. [cqlgen guide](https://gqlgen.com/getting-started/)
 2. [appending to slices](https://go.dev/tour/moretypes/15) 
@@ -45,7 +45,7 @@
 
 **Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
-**Links to tutorials followed**:
+**Links to references used**:
 
 1. [int to string](https://golang.cafe/blog/golang-int-to-string-conversion-example.html)
 
@@ -58,9 +58,23 @@
 
 **Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
-**Links to tutorials followed**:
+**Links to references used**:
 
 1. [slice append](https://yourbasic.org/golang/append-explained/)
 2. [for loop](https://yourbasic.org/golang/for-loop/)
 3. [URL buildup](https://pkg.go.dev/net/url#URL)
 4. [query resolvers](https://gqlgen.com/reference/resolvers/)
+
+--- 
+### Day 6: January 5, 2022
+
+**Today's Progress**: Today was a throwaway. I implemented a resolver for systembyid but all the other work I did, did not accomplish much. ESI for EVE was down so I could test my new resolver.
+
+**Thoughts:** The Star Wars example generates their resolvers from the schema. I really want this and for the life of me I can't figure out why mine don't. I added a couple of lines to my resolver to generate easily every time so that's nice at least.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [star wars example](https://github.com/99designs/gqlgen/tree/master/example/starwars)
+2. [getting started](https://gqlgen.com/getting-started/)
