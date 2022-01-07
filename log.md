@@ -78,3 +78,17 @@
 
 1. [star wars example](https://github.com/99designs/gqlgen/tree/master/example/starwars)
 2. [getting started](https://gqlgen.com/getting-started/)
+
+--- 
+### Day 7: January 6, 2022
+
+**Today's Progress**: Figured out all of yesterdays issues and got a resolver going for the Systems within Order so that's exciting. My first nested type.
+
+**Thoughts:** The missing piece was capitalization on my types in the schema and matching properties in the gqlgen. Also really cemented in what the parens before a method name are for. It's for defining methods for a struct with is handy. None of the Pluralsight courses I took really drove that home.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [methods](https://go.dev/tour/methods/1)
+2. [eve swagger system by id](https://esi.evetech.net/ui/#/Universe/get_universe_systems_system_id)
