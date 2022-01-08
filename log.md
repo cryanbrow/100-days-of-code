@@ -92,3 +92,16 @@
 
 1. [methods](https://go.dev/tour/methods/1)
 2. [eve swagger system by id](https://esi.evetech.net/ui/#/Universe/get_universe_systems_system_id)
+
+--- 
+### Day 8: January 7, 2022
+
+**Today's Progress**: Today was just doing work. Didn't have to figure out much but accomplished an absolute ton. Got like 6-7 resolvers and dao endpoints built.
+
+**Thoughts:** Today was just a day of doing.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [voyager](https://apis.guru/graphql-voyager/)
