@@ -105,3 +105,16 @@
 **Links to references used**:
 
 1. [voyager](https://apis.guru/graphql-voyager/)
+
+--- 
+### Day 9: January 8, 2022
+
+**Today's Progress**: Today was another day of just writing resolvers and endpoints into the ESI. Got a heck of a lot done though.
+
+**Thoughts:** Today was just a day of doing. Created my first custom error though so that was fun.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [errors](https://yourbasic.org/golang/create-error/)
