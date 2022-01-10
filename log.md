@@ -118,3 +118,18 @@
 **Links to references used**:
 
 1. [errors](https://yourbasic.org/golang/create-error/)
+
+--- 
+### Day 10: January 9, 2022
+
+**Today's Progress**: Huge day today. I decided I wanted to increase the performance so I implemented an in memory cache for one of the API endpoints. I implemented in a way so it's agnostic to the data that is coming in which will make it super reusable.
+
+**Thoughts:** Implemented a cache with a map to start with and ran into concurrent modification exceptions. Found sync.map and it was just what I needed. Turned out great. So now I'm caching things with expiry timestamps and everything. It's super fun.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [maps](https://medium.com/@luanrubensf/concurrent-map-access-in-go-a6a733c5ffd1)
+2. [sync.map](https://pkg.go.dev/sync#Map)
+3. [medium sync.map](https://medium.com/@deckarep/the-new-kid-in-town-gos-sync-map-de24a6bf7c2c)
