@@ -133,3 +133,18 @@
 1. [maps](https://medium.com/@luanrubensf/concurrent-map-access-in-go-a6a733c5ffd1)
 2. [sync.map](https://pkg.go.dev/sync#Map)
 3. [medium sync.map](https://medium.com/@deckarep/the-new-kid-in-town-gos-sync-map-de24a6bf7c2c)
+
+--- 
+### Day 11: January 10, 2022
+
+**Today's Progress**: Another great day. I learned how to embed a React app in my go app so I was able to put Voyager in my app as a separate endpoint to call. I added caching to everything and I built a couple of new resolvers.
+
+**Thoughts:** Implementing Voyager was immensely easy. In fact putting web apps in your go app is absurdly easy. Makes me think about a whole mess of helper utilities that I could put in go apps really easily.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [voyager example](https://github.com/APIs-guru/graphql-voyager/blob/master/example/index.html)
+2. [embed app](https://www.fareez.info/blog/embedding-react-app-in-go-binary/) - Didn't work but if it does it's a far cleaner implementation.
+3. [embed app long](https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/) - Worked but is a lot of code.
