@@ -148,3 +148,17 @@
 1. [voyager example](https://github.com/APIs-guru/graphql-voyager/blob/master/example/index.html)
 2. [embed app](https://www.fareez.info/blog/embedding-react-app-in-go-binary/) - Didn't work but if it does it's a far cleaner implementation.
 3. [embed app long](https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/) - Worked but is a lot of code.
+
+--- 
+### Day 12: January 11, 2022
+
+**Today's Progress**: I pulled out the REST logic into it's own method and replaced it all calls. Also did a pretty big logging overhaul. Learned how to implemented JSON fields in logs.
+
+**Thoughts:** Really thought I broke almost everything. But managed to bring it back around. Learned why it's important to know that := is not the same as =.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [logrus](https://github.com/sirupsen/logrus)
+2. [logging best practices](https://qvault.io/golang/golang-logging-best-practices/)
