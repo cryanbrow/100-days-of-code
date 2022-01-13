@@ -162,3 +162,19 @@
 
 1. [logrus](https://github.com/sirupsen/logrus)
 2. [logging best practices](https://qvault.io/golang/golang-logging-best-practices/)
+
+--- 
+### Day 13: January 12, 2022
+
+**Today's Progress**: I cleaned up my logging. Almost fully converted to JSON logging at this point. I also implemented a Redis cache instead of an in memory cache in a map. It was surprisingly simple to do. I'm running it on the linux subsystem on my Windows machine in the interim while I build out my home lab.
+
+**Thoughts:** Redis sure is nice.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [redis install](https://redis.io/download)
+2. [redis ttl](https://redis.io/commands/TTL)
+3. [redis go](https://github.com/go-redis/redis)
+4. [go byte array to string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
