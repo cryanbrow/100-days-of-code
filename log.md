@@ -178,3 +178,16 @@
 2. [redis ttl](https://redis.io/commands/TTL)
 3. [redis go](https://github.com/go-redis/redis)
 4. [go byte array to string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
+
+--- 
+### Day 14: January 13, 2022
+
+**Today's Progress**: I fixed an issue where an http response returning no error but a non 200 response code was being stored to Redis. I also added a Corporation resolver and worked on the schema and some more endpoints for the ESI endpoints.
+
+**Thoughts:** After a 5 hour drive today it was nice to just do something easy.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [caldari navy killboard](https://zkillboard.com/corporation/1000035/)
