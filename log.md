@@ -191,3 +191,17 @@
 **Links to references used**:
 
 1. [caldari navy killboard](https://zkillboard.com/corporation/1000035/)
+
+--- 
+### Day 15: January 14, 2022
+
+**Today's Progress**: I built two resolvers, one for corporatins and one for factions. The faction endpoint on the ESI was a get all so I had to iterate through the response and cache the pieces individually. Will be a super helpful thing to follow as their are a great many endpoints like that.
+
+**Thoughts:** Make sure you flushall Redis keys after making a schema addition or you'll wonder why that key keeps coming back null.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [json marshalling](https://pkg.go.dev/encoding/json#Marshal)
+2. [for each loop](https://yourbasic.org/golang/for-loop/)
