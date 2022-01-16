@@ -205,3 +205,16 @@
 
 1. [json marshalling](https://pkg.go.dev/encoding/json#Marshal)
 2. [for each loop](https://yourbasic.org/golang/for-loop/)
+
+--- 
+### Day 16: January 15, 2022
+
+**Today's Progress**: I flushed out about 10 resolvers and added like 5 REST dao endpoints.
+
+**Thoughts:** Got some good work done today
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [graphql schema](https://graphql.org/learn/schema/)
