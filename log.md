@@ -218,3 +218,16 @@
 **Links to references used**:
 
 1. [graphql schema](https://graphql.org/learn/schema/)
+
+--- 
+### Day 17: January 16, 2022
+
+**Today's Progress**: Worked on more resolvers and CREST endpoints. Getting close to flushing most everything that I have defined in the schema out.
+
+**Thoughts:** Getting close to the end of this.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [graphql schema](https://graphql.org/learn/schema/)
