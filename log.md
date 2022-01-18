@@ -231,3 +231,16 @@
 **Links to references used**:
 
 1. [graphql schema](https://graphql.org/learn/schema/)
+
+--- 
+### Day 18: January 17, 2022
+
+**Today's Progress**: Finished out all the schema I had defined. Started adding comments to the schema for intuitive descriptions of fields.
+
+**Thoughts:** Writing useful comments is always the hardest part.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [schema comments pull request](https://github.com/99designs/gqlgen/pull/320)
