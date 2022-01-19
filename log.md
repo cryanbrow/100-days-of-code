@@ -244,3 +244,16 @@
 **Links to references used**:
 
 1. [schema comments pull request](https://github.com/99designs/gqlgen/pull/320)
+
+--- 
+### Day 19: January 18, 2022
+
+**Today's Progress**: Added a Dockerfile for building a docker image. Reverted to the memory cache as installing Docker Desktop broke networking to the Windows subsystem for linux.
+
+**Thoughts:** Don't know why I'm unable to access the Windows Subsystem for Linux. It won't matter soon as the home lab will be going soon and I'll host Redis on a server.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [golang docker app](https://codefresh.io/docs/docs/learn-by-example/golang/golang-hello-world/)
