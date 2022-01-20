@@ -257,3 +257,16 @@
 **Links to references used**:
 
 1. [golang docker app](https://codefresh.io/docs/docs/learn-by-example/golang/golang-hello-world/)
+
+--- 
+### Day 20: January 19, 2022
+
+**Today's Progress**: I tried to get kubernetes running on my raspberry pis but couldn't get things to start. I installed Redis on a raspberry pi instead and pointed my app to that. I added documentation to another object. I built out the History endpoint. Finally I refactored the caching into its own package. 
+
+**Thoughts:** I think to get Kubernetes running on my pis I will have to flash to use armhf
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [redis install](https://redis.io/download)
