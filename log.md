@@ -270,3 +270,19 @@
 **Links to references used**:
 
 1. [redis install](https://redis.io/download)
+
+--- 
+### Day 21: January 20, 2022
+
+**Today's Progress**: I got 10 raspberry pis running today on POE on my Cisco switch. Just had to change the orientation of my header on the POE pins on the pi. I started implementing graphql queries by name instead of id which required a massive refactor. Got most of the way done with the refactor. Next is fully building out the endpoint.
+
+**Thoughts:** Did a lot of learning today. My first switch statement. First HTTP Post. Struct to JSON to Byte Buffer.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [switch](https://gobyexample.com/switch)
+2. [struct to byte buffer](https://gosamples.dev/struct-to-io-reader/)
+3. [single item array](https://stackoverflow.com/questions/18906817/how-do-i-create-an-array-of-one-item-in-go/18906818)
+4. [typed nil](https://stackoverflow.com/questions/19761393/why-does-go-have-typed-nil)
