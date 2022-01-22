@@ -286,3 +286,19 @@
 2. [struct to byte buffer](https://gosamples.dev/struct-to-io-reader/)
 3. [single item array](https://stackoverflow.com/questions/18906817/how-do-i-create-an-array-of-one-item-in-go/18906818)
 4. [typed nil](https://stackoverflow.com/questions/19761393/why-does-go-have-typed-nil)
+
+--- 
+### Day 22: January 21, 2022
+
+**Today's Progress**: I implemented a large refactor and allowed querying by name of orders and types. I also implemented the method to be easily expanded out to other endpoints as well.
+
+**Thoughts:** Made a lot of patch cables today for the home lab. Excited to get things up and running from that perspective.
+
+**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+
+**Links to references used**:
+
+1. [constants](https://go.dev/tour/basics/15)
+2. [empty string check](https://stackoverflow.com/questions/18594330/what-is-the-best-way-to-test-for-an-empty-string-in-go)
+3. [test exclude files](https://stackoverflow.com/a/61604251)
+4. [too many open files](http://woshub.com/too-many-open-files-error-linux/)
