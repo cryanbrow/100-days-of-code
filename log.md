@@ -302,3 +302,24 @@
 2. [empty string check](https://stackoverflow.com/questions/18594330/what-is-the-best-way-to-test-for-an-empty-string-in-go)
 3. [test exclude files](https://stackoverflow.com/a/61604251)
 4. [too many open files](http://woshub.com/too-many-open-files-error-linux/)
+
+--- 
+### Day 23: January 22, 2022
+
+**Today's Progress**: Today was a day of days. I installed Ansible, ran an ansible playbook to install kubernetes on 10 raspberry pis, built yamls for redis on k8s, installed redis, exposed redis on the workers, connected to redis from my computer, built an image of eve-graphql for arm, installed it to k8s, and connected to redis on kubernetes.
+
+**Thoughts:** I had a fantastic day of getting stuff accomplished. I think I want to look into using my Kemp Loadmaster tomorrow for creating loadbalancers for the cluster.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Redis Kube](https://github.com/cryanbrow/redis-kube)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [install helm](https://helm.sh/docs/intro/install/)
+2. [k3s on raspberry pi](https://bryanbende.com/development/2021/05/07/k3s-raspberry-pi-initial-setup)
+3. [different architecture docker build](https://stackoverflow.com/questions/60114854/pull-docker-image-for-different-architecture/60116565)
+4. [multi-arch docker build](https://www.docker.com/blog/multi-arch-build-and-images-the-simple-way/)
