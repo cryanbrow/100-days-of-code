@@ -323,3 +323,23 @@
 2. [k3s on raspberry pi](https://bryanbende.com/development/2021/05/07/k3s-raspberry-pi-initial-setup)
 3. [different architecture docker build](https://stackoverflow.com/questions/60114854/pull-docker-image-for-different-architecture/60116565)
 4. [multi-arch docker build](https://www.docker.com/blog/multi-arch-build-and-images-the-simple-way/)
+
+--- 
+### Day 24: January 23, 2022
+
+**Today's Progress**: Implemented externalized config in my application by loading yamls. Implemented yaml config map in my helm chart as well.
+
+**Thoughts:** After following Kelsey Hightower for so long it was cool to use his env config library.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [external config](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
+2. [external config github](https://github.com/amritsingh/golang_tutorials/tree/main/revel/config_to_yaml/app)
+3. [env config](https://github.com/kelseyhightower/envconfig)
+4. [init function progression](https://stackoverflow.com/questions/24790175/when-is-the-init-function-run)
