@@ -343,3 +343,22 @@
 2. [external config github](https://github.com/amritsingh/golang_tutorials/tree/main/revel/config_to_yaml/app)
 3. [env config](https://github.com/kelseyhightower/envconfig)
 4. [init function progression](https://stackoverflow.com/questions/24790175/when-is-the-init-function-run)
+
+--- 
+### Day 25: January 24, 2022
+
+**Today's Progress**: Attempted to parse an ISO 8601 timestamp from a header from http response to set a TTL in Redis.
+
+**Thoughts:** Dealing with time is always a bear and this was no exception. An hour of coding and I'm not closer than I was.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [ISO 8601](https://stackoverflow.com/questions/38596079/how-do-i-parse-an-iso-8601-timestamp-in-go)
+2. [int64 to string](https://yourbasic.org/golang/convert-int-to-string/)
+3. [time format](https://gobyexample.com/time-formatting-parsing)
