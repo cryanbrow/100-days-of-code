@@ -362,3 +362,20 @@
 1. [ISO 8601](https://stackoverflow.com/questions/38596079/how-do-i-parse-an-iso-8601-timestamp-in-go)
 2. [int64 to string](https://yourbasic.org/golang/convert-int-to-string/)
 3. [time format](https://gobyexample.com/time-formatting-parsing)
+
+--- 
+### Day 26: January 25, 2022
+
+**Today's Progress**: Fixed my TTL bug. It was RFC1123. Started a massive refactor to potentially eliminate hundreds of lines of code. 
+
+**Thoughts:** Genericizing methods is rough with there is like 30 use cases to check for.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+none
