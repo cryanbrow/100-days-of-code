@@ -379,3 +379,21 @@
 **Links to references used**:
 
 none
+
+--- 
+### Day 27: January 26, 2022
+
+**Today's Progress**: Completed the refactor of removing caching and url logic from the service layer. Moved Asteroid Belts to the universe package.
+
+**Thoughts:** Pretty good. I fought a ghost because I was seeing an empty array. I wonder if in graphql there is a way to hide objects whose all sub objects are nil or empty arrays
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [required graphql fields](https://graphql.org/learn/queries/)
+2. [byte slice to string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
