@@ -397,3 +397,20 @@ none
 
 1. [required graphql fields](https://graphql.org/learn/queries/)
 2. [byte slice to string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
+
+--- 
+### Day 28: January 27, 2022
+
+**Today's Progress**: Completed refactor of data access layer into separate layers by ESI type.
+
+**Thoughts:** Tomorrow I'm going to start working on unit testing. This will be fun.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+none
