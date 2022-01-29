@@ -414,3 +414,24 @@ none
 **Links to references used**:
 
 none
+
+--- 
+### Day 29: January 28, 2022
+
+**Today's Progress**: I unit tested one file to 100% code coverage. 
+
+**Thoughts:** I found out getting around using init in packages is rough when you need to override things within them. I'm not sure what I'll do in the future as the way I've done I don't particulary care for.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [coverage tool](https://gist.github.com/ammario/8e802dc0595faaed241bad19f72eda5c)
+2. [test main](https://stackoverflow.com/questions/14249217/how-do-i-know-im-running-within-go-test)
+3. [go pwd](https://gist.github.com/arxdsilva/4f73d6b89c9eac93d4ac887521121120)
+4. [print time format](https://go-recipes.dev/parsing-and-displaying-time-with-go-a8ee85e23fff)
+5. [time](https://gobyexample.com/time)
