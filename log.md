@@ -435,3 +435,20 @@ none
 3. [go pwd](https://gist.github.com/arxdsilva/4f73d6b89c9eac93d4ac887521121120)
 4. [print time format](https://go-recipes.dev/parsing-and-displaying-time-with-go-a8ee85e23fff)
 5. [time](https://gobyexample.com/time)
+
+--- 
+### Day 30: January 29, 2022
+
+**Today's Progress**: I learned how to do functions that are directly tied to structs. This allowed me to refactor my redis caching.
+
+**Thoughts:** I need to understand putting a struct before the method definition and what that allows for.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [http client](https://go.dev/src/net/http/client.go)
