@@ -452,3 +452,20 @@ none
 **Links to references used**:
 
 1. [http client](https://go.dev/src/net/http/client.go)
+
+--- 
+### Day 31: January 30, 2022
+
+**Today's Progress**: I worked on adding unit test coverage.
+
+**Thoughts:** I got a better grasp on interfaces and mocking but I don't full understand the rune thing that I ran into in the http library.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [interfaces](https://go.dev/doc/effective_go#interfaces)
