@@ -469,3 +469,21 @@ none
 **Links to references used**:
 
 1. [interfaces](https://go.dev/doc/effective_go#interfaces)
+
+--- 
+### Day 32: January 31, 2022
+
+**Today's Progress**: I attempted to exclude generated code from unit test coverage to get a better idea of where I am. I was not successful.
+
+**Thoughts:** Part of me understands why they don't include a way to exclude packages from coverage but the other part of me finds it really frustrating when I'm trying to think through quality gates in the future.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [stack overflow exclude](https://stackoverflow.com/questions/55224561/how-to-exclude-or-skip-specific-directory-while-running-go-test)
+2. [coverpkg exclude](https://liza.io/excluding-mocks-from-coverage-reports/)
