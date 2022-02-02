@@ -487,3 +487,20 @@ none
 
 1. [stack overflow exclude](https://stackoverflow.com/questions/55224561/how-to-exclude-or-skip-specific-directory-while-running-go-test)
 2. [coverpkg exclude](https://liza.io/excluding-mocks-from-coverage-reports/)
+
+--- 
+### Day 33: February 1, 2022
+
+**Today's Progress**: I finalized the commands to exclude generated code from the coverage report. I started to build out the tests for the dogma package.
+
+**Thoughts:** Finally starting to understand mocking. Just takes a lot of repitition. 
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+none
