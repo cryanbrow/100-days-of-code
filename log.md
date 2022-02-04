@@ -523,3 +523,20 @@ none
 1. [actions quickstart](https://docs.github.com/en/actions/quickstart)
 2. [go action template](https://github.com/actions/starter-workflows/blob/main/ci/go.yml)
 3. [storing artifacts](https://docs.github.com/en/actions/advanced-guides/storing-workflow-data-as-artifacts)
+
+--- 
+### Day 34: February 2, 2022
+
+**Today's Progress**: Worked on a lot of unit tests. 
+
+**Thoughts:** Coverage % is slowly climbing.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+none
