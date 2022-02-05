@@ -561,7 +561,7 @@ none
 --- 
 ### Day 37: February 5, 2022
 
-**Today's Progress**: Built a lot of tests. Got code coverage to nearly 40%. Built a Github Action Pipeline for pushing my code coverage report to my github pages. This is a lot easier than downloading the result every time. 
+**Today's Progress**: Built a lot of tests. Got code coverage to nearly 40%. Built a Github Action Pipeline for pushing my code coverage report to my github pages. This is a lot easier than downloading the result every time. Got sonarcloud setup as well. And fixed a lot of issues with the code.
 
 **Thoughts:** It's really nice to see all the stuff you can do with Github Actions.
 
@@ -578,3 +578,7 @@ none
 [push example script](https://github.com/cpina/github-action-push-to-another-repository/blob/main/entrypoint.sh)
 [go profiling](https://medium.com/@felipedutratine/profile-your-benchmark-with-pprof-fb7070ee1a94)
 [github get sha](https://stackoverflow.com/questions/58886293/getting-current-branch-and-commit-hash-in-github-action)
+[sonarqube scoppe](https://docs.sonarqube.org/latest/project-administration/narrowing-the-focus/)
+[github push to your repo](https://github.com/ad-m/github-push-action)
+[js script sha](https://www.w3schools.com/tags/att_script_integrity.asp)
+[sonarqube test coverage](https://docs.sonarcloud.io/enriching/test-coverage-and-execution)
