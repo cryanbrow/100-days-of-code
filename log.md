@@ -525,7 +525,7 @@ none
 3. [storing artifacts](https://docs.github.com/en/actions/advanced-guides/storing-workflow-data-as-artifacts)
 
 --- 
-### Day 34: February 2, 2022
+### Day 35: February 3, 2022
 
 **Today's Progress**: Worked on a lot of unit tests. 
 
@@ -540,3 +540,20 @@ none
 **Links to references used**:
 
 none
+
+--- 
+### Day 36: February 4, 2022
+
+**Today's Progress**: Work on Universe REST tests. 
+
+**Thoughts:** Coverage % is slowly climbing.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+[push to other repo](https://github.com/cpina/github-action-push-to-another-repository)
