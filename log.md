@@ -582,3 +582,4 @@ none
 [github push to your repo](https://github.com/ad-m/github-push-action)
 [js script sha](https://www.w3schools.com/tags/att_script_integrity.asp)
 [sonarqube test coverage](https://docs.sonarcloud.io/enriching/test-coverage-and-execution)
+[golang sonarqube](https://docs.sonarqube.org/latest/analysis/languages/go/)
