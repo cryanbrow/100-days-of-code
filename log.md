@@ -583,3 +583,21 @@ none
 [js script sha](https://www.w3schools.com/tags/att_script_integrity.asp)
 [sonarqube test coverage](https://docs.sonarcloud.io/enriching/test-coverage-and-execution)
 [golang sonarqube](https://docs.sonarqube.org/latest/analysis/languages/go/)
+[checkout depth](https://stackoverflow.com/questions/59000099/sonarqube-with-shallow-clone-warning-even-with-shallow-disabled-on-jenkins-build?newreg=0b3a83317e0249b689a1ac764902fe66)
+
+--- 
+### Day 38: February 6, 2022
+
+**Today's Progress**: I got sonarcloud code coverage setup so I no longer have to use github actions to save coverage reports. Built a lot of tests and got to nearly 70% code coverage. I got all the bugs, vulnerabilities, and code smells fixed in the code.
+
+**Thoughts:** Sonarcloud is really nice.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+[sonarcloud](https://sonarcloud.io/summary/overall?id=cryanbrow_eve-graphql-go)
