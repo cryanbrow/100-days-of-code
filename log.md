@@ -6,7 +6,9 @@
 
 **Thoughts:** I completed the tutorials [Part 1](https://dev.to/divrhino/building-a-command-line-tool-with-go-and-cobra-3mjd) and [Part 2](https://dev.to/divrhino/adding-flags-to-a-command-line-tool-built-with-go-and-cobra-34f1) using cobra and golang to call the icanhazdadjoke REST API. Icanhazdadjoke has a GraphQL API, tomorrow I will converting my app to call the GraphQL implementation
 
-**Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
+**Link(s) to work**: 
+
+* [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
 
 --- 
 ### Day 2: January 1, 2022
@@ -15,7 +17,9 @@
 
 **Thoughts:** I struggled a lot at the beginning of this. Mocking in Go is significantly more complicated than in Java with annotations. You have to create an interface for a class that already exists and then pass in a reference to the library in an init method. This init method happens before any other code execution so when you load in a Mock in your test doing the same thing it replaces what is already there. It makes sense now that I understand what's going on. It's just really quite complex for something that is rather easy in Java.
 
-**Link(s) to work**: [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
+**Link(s) to work**: 
+
+* [DadJoke CLI](https://github.com/cryanbrow/dadjoke)
 
 **Links to references used**:
 
@@ -29,7 +33,9 @@
 
 **Thoughts:** cqlgen is a life saver. The fact that it builds out your objects from your schema and sets up resolvers and everything. It's just incredible. The task of building resolvers is still going to be daunting for a schema the size of the one that I have but it will be fun. I don't know how unit testing for generated code works. I don't know if the best approach would be to ignore it? Feels like unit testing generated code is chasing a moving target. I'll search around tomorrow and see what people say.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -43,7 +49,9 @@
 
 **Thoughts:** With the json implementation in the auto generated go code wanting snake case and me not wanting to modify the finals every time I built them I updated the schema. I created a resolver that only pulls the first page but that works for now. Next is caching.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -56,7 +64,9 @@
 
 **Thoughts:** It's really important to not overlook a != and mistake it for a ==. That cost me like 15 minutes of my life. url.URL makes calling APIs so much easier, I'm glad I took the time to do it instead of just concatenating strings.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -72,7 +82,9 @@
 
 **Thoughts:** The Star Wars example generates their resolvers from the schema. I really want this and for the life of me I can't figure out why mine don't. I added a couple of lines to my resolver to generate easily every time so that's nice at least.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -86,7 +98,9 @@
 
 **Thoughts:** The missing piece was capitalization on my types in the schema and matching properties in the gqlgen. Also really cemented in what the parens before a method name are for. It's for defining methods for a struct with is handy. None of the Pluralsight courses I took really drove that home.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -100,7 +114,9 @@
 
 **Thoughts:** Today was just a day of doing.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -113,7 +129,9 @@
 
 **Thoughts:** Today was just a day of doing. Created my first custom error though so that was fun.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -126,7 +144,9 @@
 
 **Thoughts:** Implemented a cache with a map to start with and ran into concurrent modification exceptions. Found sync.map and it was just what I needed. Turned out great. So now I'm caching things with expiry timestamps and everything. It's super fun.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -141,7 +161,9 @@
 
 **Thoughts:** Implementing Voyager was immensely easy. In fact putting web apps in your go app is absurdly easy. Makes me think about a whole mess of helper utilities that I could put in go apps really easily.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -156,7 +178,9 @@
 
 **Thoughts:** Really thought I broke almost everything. But managed to bring it back around. Learned why it's important to know that := is not the same as =.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -170,7 +194,9 @@
 
 **Thoughts:** Redis sure is nice.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -186,7 +212,9 @@
 
 **Thoughts:** After a 5 hour drive today it was nice to just do something easy.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -199,7 +227,9 @@
 
 **Thoughts:** Make sure you flushall Redis keys after making a schema addition or you'll wonder why that key keeps coming back null.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -213,7 +243,9 @@
 
 **Thoughts:** Got some good work done today
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -226,7 +258,9 @@
 
 **Thoughts:** Getting close to the end of this.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -239,7 +273,9 @@
 
 **Thoughts:** Writing useful comments is always the hardest part.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -252,7 +288,9 @@
 
 **Thoughts:** Don't know why I'm unable to access the Windows Subsystem for Linux. It won't matter soon as the home lab will be going soon and I'll host Redis on a server.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -265,7 +303,9 @@
 
 **Thoughts:** I think to get Kubernetes running on my pis I will have to flash to use armhf
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -278,7 +318,9 @@
 
 **Thoughts:** Did a lot of learning today. My first switch statement. First HTTP Post. Struct to JSON to Byte Buffer.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -294,7 +336,9 @@
 
 **Thoughts:** Made a lot of patch cables today for the home lab. Excited to get things up and running from that perspective.
 
-**Link(s) to work**: [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
 
 **Links to references used**:
 
@@ -312,10 +356,10 @@
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Redis Kube](https://github.com/cryanbrow/redis-kube)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Redis Kube](https://github.com/cryanbrow/redis-kube)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -333,9 +377,9 @@
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -353,9 +397,9 @@
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -372,9 +416,9 @@
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -389,9 +433,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -407,9 +451,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -424,9 +468,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -445,9 +489,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -462,9 +506,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -479,9 +523,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -497,9 +541,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -514,9 +558,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -533,9 +577,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -550,9 +594,9 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
@@ -567,23 +611,23 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
-[push to other repo](https://github.com/cpina/github-action-push-to-another-repository)
-[push example](https://github.com/cpina/push-to-another-repository-example/blob/main/.github/workflows/ci.yml)
-[push example script](https://github.com/cpina/github-action-push-to-another-repository/blob/main/entrypoint.sh)
-[go profiling](https://medium.com/@felipedutratine/profile-your-benchmark-with-pprof-fb7070ee1a94)
-[github get sha](https://stackoverflow.com/questions/58886293/getting-current-branch-and-commit-hash-in-github-action)
-[sonarqube scoppe](https://docs.sonarqube.org/latest/project-administration/narrowing-the-focus/)
-[github push to your repo](https://github.com/ad-m/github-push-action)
-[js script sha](https://www.w3schools.com/tags/att_script_integrity.asp)
-[sonarqube test coverage](https://docs.sonarcloud.io/enriching/test-coverage-and-execution)
-[golang sonarqube](https://docs.sonarqube.org/latest/analysis/languages/go/)
-[checkout depth](https://stackoverflow.com/questions/59000099/sonarqube-with-shallow-clone-warning-even-with-shallow-disabled-on-jenkins-build?newreg=0b3a83317e0249b689a1ac764902fe66)
+1. [push to other repo](https://github.com/cpina/github-action-push-to-another-repository)
+2. [push example](https://github.com/cpina/push-to-another-repository-example/blob/main/.github/workflows/ci.yml)
+3. [push example script](https://github.com/cpina/github-action-push-to-another-repository/blob/main/entrypoint.sh)
+4. [go profiling](https://medium.com/@felipedutratine/profile-your-benchmark-with-pprof-fb7070ee1a94)
+5. [github get sha](https://stackoverflow.com/questions/58886293/getting-current-branch-and-commit-hash-in-github-action)
+6. [sonarqube scoppe](https://docs.sonarqube.org/latest/project-administration/narrowing-the-focus/)
+7. [github push to your repo](https://github.com/ad-m/github-push-action)
+8. [js script sha](https://www.w3schools.com/tags/att_script_integrity.asp)
+9. [sonarqube test coverage](https://docs.sonarcloud.io/enriching/test-coverage-and-execution)
+10. [golang sonarqube](https://docs.sonarqube.org/latest/analysis/languages/go/)
+11. [checkout depth](https://stackoverflow.com/questions/59000099/sonarqube-with-shallow-clone-warning-even-with-shallow-disabled-on-jenkins-build?newreg=0b3a83317e0249b689a1ac764902fe66)
 
 --- 
 ### Day 38: February 6, 2022
@@ -594,13 +638,13 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
-[sonarcloud](https://sonarcloud.io/summary/overall?id=cryanbrow_eve-graphql-go)
+1. [sonarcloud](https://sonarcloud.io/summary/overall?id=cryanbrow_eve-graphql-go)
 
 --- 
 ### Day 39: February 7, 2022
@@ -611,10 +655,10 @@ none
 
 **Link(s) to work**: 
 
-[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
-[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
-[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
 
 **Links to references used**:
 
-[go vet](https://pkg.go.dev/cmd/vet)
+1. [go vet](https://pkg.go.dev/cmd/vet)
