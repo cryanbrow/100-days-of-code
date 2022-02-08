@@ -601,3 +601,20 @@ none
 **Links to references used**:
 
 [sonarcloud](https://sonarcloud.io/summary/overall?id=cryanbrow_eve-graphql-go)
+
+--- 
+### Day 39: February 7, 2022
+
+**Today's Progress**: I was able to get code coverage on the overall project to 80.4%. The bare minimum that I will accept. I think I should be able to approach 90% by the time it's all done.
+
+**Thoughts:** I've about worked off my backlog of technical debt. It will be nice to start extending the project once again.
+
+**Link(s) to work**: 
+
+[Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+[Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+[Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+[go vet](https://pkg.go.dev/cmd/vet)
