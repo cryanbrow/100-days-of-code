@@ -662,3 +662,20 @@ none
 **Links to references used**:
 
 1. [go vet](https://pkg.go.dev/cmd/vet)
+
+--- 
+### Day 40: February 8, 2022
+
+**Today's Progress**: I got Jekyll installed on my github pages and setup my first blog post. I also added a few more new endpoints to the graphql server.
+
+**Thoughts:** Having an easy to update blog is super nice.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [jekyll setup](https://dfederm.com/creating-a-blog-using-github-pages/)
