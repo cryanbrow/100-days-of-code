@@ -679,3 +679,23 @@ none
 **Links to references used**:
 
 1. [jekyll setup](https://dfederm.com/creating-a-blog-using-github-pages/)
+
+--- 
+### Day 41: February 9, 2022
+
+**Today's Progress**: I installed Jaeger on my local machine. I also implemented open telemetry into one endpoint. Got it producing to Jaeger and checked out some spans.
+
+**Thoughts:** I spent months trying to get this to work in Java and it works in minutes in Go...
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [open telemetry getting started](https://opentelemetry.io/docs/instrumentation/go/getting-started/)
+2. [sampling](https://opentelemetry.io/docs/instrumentation/go/exporting_data/)
+3. [jaeger impl](https://github.com/open-telemetry/opentelemetry-go/blob/main/example/jaeger/main.go)
+4. [jaeger getting started](https://www.jaegertracing.io/docs/1.31/getting-started/)
