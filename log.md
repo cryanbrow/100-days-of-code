@@ -699,3 +699,20 @@ none
 2. [sampling](https://opentelemetry.io/docs/instrumentation/go/exporting_data/)
 3. [jaeger impl](https://github.com/open-telemetry/opentelemetry-go/blob/main/example/jaeger/main.go)
 4. [jaeger getting started](https://www.jaegertracing.io/docs/1.31/getting-started/)
+
+--- 
+### Day 42: February 10, 2022
+
+**Today's Progress**: Got open telemetry in the entire app. Was a ton of refactoring.
+
+**Thoughts:** My copy/paste fingers are tired. lol
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+none
