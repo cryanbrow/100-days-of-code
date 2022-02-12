@@ -716,3 +716,20 @@ none
 **Links to references used**:
 
 none
+
+--- 
+### Day 43: February 11, 2022
+
+**Today's Progress**: Built my docker image with github actions and tagged a latest and version number at the same time with multiple build types.
+
+**Thoughts:** I'm a little lost on weather I should continue with this project to polish it up more or switch to something else to learn more.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [buildx](https://docs.docker.com/buildx/working-with-buildx/)
