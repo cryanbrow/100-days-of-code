@@ -733,3 +733,25 @@ none
 **Links to references used**:
 
 1. [buildx](https://docs.docker.com/buildx/working-with-buildx/)
+2. [default values](https://stackoverflow.com/questions/56049589/what-is-the-way-to-set-default-values-on-keys-in-lists-when-unmarshalling-yaml-i)
+3. [default library](https://github.com/creasty/defaults)
+
+--- 
+### Day 44: February 12, 2022
+
+**Today's Progress**: I implemented go security scanning and fixed the issues found there. I implemented a linter badge and started fixing issues that were identified by that. I updated the application to run with default settings so it can be pulled and used with zero configuration.
+
+**Thoughts:** Working to make an application that works in multiple configuration takes a lot of thought and consideration. I do wish I new that the context should be the first field in a method before I did that huge refactor.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [godoc comments](https://go.dev/blog/godoc)
+2. [GitHub Container Registry Push](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images)
+3. [Helm Chart GCR](https://www.visualstudiogeeks.com/github/publish-helm-3-charts-to-gcr)
+4. [go report card](https://goreportcard.com/report/github.com/cryanbrow/eve-graphql-go)
