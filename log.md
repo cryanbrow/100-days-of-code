@@ -755,3 +755,20 @@ none
 2. [GitHub Container Registry Push](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images)
 3. [Helm Chart GCR](https://www.visualstudiogeeks.com/github/publish-helm-3-charts-to-gcr)
 4. [go report card](https://goreportcard.com/report/github.com/cryanbrow/eve-graphql-go)
+
+--- 
+### Day 45: February 13, 2022
+
+**Today's Progress**: I implemented revive and go vet into my github actions. Got those wired into sonarcloud and reporting as code smells. Cleaned over 500 of them up. Have about 50 to go for tomorrow.
+
+**Thoughts:** Still thinking through how to organize a large graphql schema with hundreds of queries.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [revive](https://github.com/mgechev/revive)
