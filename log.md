@@ -772,3 +772,20 @@ none
 **Links to references used**:
 
 1. [revive](https://github.com/mgechev/revive)
+
+--- 
+### Day 46: February 14, 2022
+
+**Today's Progress**: I got all the godoc comments finished up and cleared all the code smells from revive.run. 
+
+**Thoughts:** Still thinking through how to organize a large graphql schema with hundreds of queries.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [godocs](https://pkg.go.dev/github.com/cryanbrow/eve-graphql-go@v0.0.1)
