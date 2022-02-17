@@ -806,3 +806,25 @@ none
 **Links to references used**:
 
 1. [godocs](https://pkg.go.dev/github.com/cryanbrow/eve-graphql-go@v0.0.1)
+
+--- 
+### Day 48: February 16, 2022
+
+**Today's Progress**: Got JWTs about 95% implemented. Just ran into an issue where a field in the JWT can be a single string or an array of strings.
+
+**Thoughts:** Got surgery tomorrow. I hope I can keep the streak going.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [okta jwt validation](https://github.com/oktadev/okta-offline-jwt-validation-example/blob/main/main.go)
+2. [parse jwt](https://pkg.go.dev/github.com/golang-jwt/jwt#example-Parse-Hmac)
+3. [gqlgen interceptor](https://gqlgen.com/recipes/authentication/)
+4. [eve oauth links](https://login.eveonline.com/.well-known/oauth-authorization-server)
+5. [eve sso](https://docs.esi.evetech.net/docs/sso/)
+
