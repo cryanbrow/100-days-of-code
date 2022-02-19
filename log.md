@@ -828,3 +828,39 @@ none
 4. [eve oauth links](https://login.eveonline.com/.well-known/oauth-authorization-server)
 5. [eve sso](https://docs.esi.evetech.net/docs/sso/)
 
+--- 
+### Day 49: February 17, 2022
+
+**Today's Progress**: Got JWTs about 95% implemented. Just ran into an issue where a field in the JWT can be a single string or an array of strings.
+
+**Thoughts:** Had surgery today. Was hard to focus.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+
+**Links to references used**:
+
+1. [file download](https://golangcode.com/download-a-file-from-a-url/)
+
+--- 
+### Day 50: February 18, 2022
+
+**Today's Progress**: I worked on MD5 Sums on downloaded files and trying to implement redis load.
+
+**Thoughts:** Pretty loopy from the pain meds after surgery.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+1. [golang starts with](https://stackoverflow.com/questions/12667327/go-startswithstr-string)
+2. [reading file](https://gobyexample.com/reading-files)
+
