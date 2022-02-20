@@ -864,3 +864,21 @@ none
 1. [golang starts with](https://stackoverflow.com/questions/12667327/go-startswithstr-string)
 2. [reading file](https://gobyexample.com/reading-files)
 
+--- 
+### Day 51: February 19, 2022
+
+**Today's Progress**: Got Agent data loaded into Redis. Started work on a few others as well.
+
+**Thoughts:** Room is still spinning post surgery so progress is slow going.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
+
