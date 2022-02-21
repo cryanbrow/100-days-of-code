@@ -882,3 +882,21 @@ none
 
 none
 
+--- 
+### Day 52: February 20, 2022
+
+**Today's Progress**: I created models for about 10 data types. There are north of 30 total but we're making progress on loading data into Redis.
+
+**Thoughts:** Finally feeling better post surgery.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
+
