@@ -918,3 +918,21 @@ none
 
 none
 
+--- 
+### Day 54: February 22, 2022
+
+**Today's Progress**: I'm sounding like a broken record but there are a lot of data types and some of them have hundreds of fields. I'm nearing the end.
+
+**Thoughts:** First day back to work after surgery.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+1. [git login](https://stackoverflow.com/questions/64962533/logon-failed-use-ctrl-c-to-cancel-basic-credential-prompt)
+
