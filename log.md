@@ -989,3 +989,21 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 58: February 26, 2022
+
+**Today's Progress**: Continued working on solar system.
+
+**Thoughts:** The hardest part of this whole thing is going to be reconciling the two data types of the SDE and the ESI.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
