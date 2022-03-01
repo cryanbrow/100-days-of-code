@@ -1025,3 +1025,21 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 60: February 28, 2022
+
+**Today's Progress**: I made it through solar system. Now I'm working on asteroid belts.
+
+**Thoughts:** I may have bitten off more than I can chew trying to reconcile this data.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
