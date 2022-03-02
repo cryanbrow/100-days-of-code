@@ -1043,3 +1043,21 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 61: March 1, 2022
+
+**Today's Progress**: I successfully started building JSON of the objects.
+
+**Thoughts:** It feels a lot more doable now that I can see the resultant data.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
