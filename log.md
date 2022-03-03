@@ -1061,3 +1061,22 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 62: March 2, 2022
+
+**Today's Progress**: I built out the solar system JSON and populated every single field within it from the static data. Required building a few new structs and there is more to do in the new structs but making good progress.
+
+**Thoughts:** Knocking that out feels huge.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+1. [keys of map](https://developpaper.com/how-does-golang-get-all-the-keys-of-a-map/)
+2. [iterate map](https://golangdocs.com/golang-iterate-over-a-map)
