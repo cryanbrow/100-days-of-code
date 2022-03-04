@@ -1098,3 +1098,21 @@ none
 **Links to references used**:
 
 1. [pretty print json](https://stackoverflow.com/questions/19038598/how-can-i-pretty-print-json-using-go)
+
+---
+### Day 64: March 4, 2022
+
+**Today's Progress**: Built out StaStations to fully round out the stations data type.
+
+**Thoughts:** Short day because I'm driving a lot tonight.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+1. [color json](https://github.com/TylerBrock/colorjson)
