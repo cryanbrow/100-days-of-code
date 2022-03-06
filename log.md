@@ -1134,3 +1134,21 @@ none
 **Links to references used**:
 
 1. [color json](https://github.com/TylerBrock/colorjson)
+
+---
+### Day 66: March 6, 2022
+
+**Today's Progress**: Finished out all the subtypes for Solar System. Hallelujah!
+
+**Thoughts:** Making progress.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+1. [string contains](https://www.geeksforgeeks.org/string-contains-function-in-golang-with-examples/)
