@@ -1152,3 +1152,21 @@ none
 **Links to references used**:
 
 1. [string contains](https://www.geeksforgeeks.org/string-contains-function-in-golang-with-examples/)
+
+---
+### Day 67: March 7, 2022
+
+**Today's Progress**: I have serialized every single part of the Eve Static Data Export!
+
+**Thoughts:** Now just to insert it all to Redis
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
