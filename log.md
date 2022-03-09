@@ -1170,3 +1170,21 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 68: March 8, 2022
+
+**Today's Progress**: Everything has been inserted to Redis. All 2,318,827 records.
+
+**Thoughts:** Now I really need to validate my schema.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+
+**Links to references used**:
+
+none
