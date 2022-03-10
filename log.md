@@ -1188,3 +1188,22 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 69: March 9, 2022
+
+**Today's Progress**: Started building the unified data model for Eve Online.
+
+**Thoughts:** Reconciliation between data types is starting
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+none
