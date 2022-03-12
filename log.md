@@ -1209,9 +1209,28 @@ none
 none
 
 ---
-### Day 69: March 9, 2022
+### Day 70: March 10, 2022
 
 **Today's Progress**: Brought in the ESI model tonight.
+
+**Thoughts:** Reconciliation between data types is starting
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+none
+
+---
+### Day 71: March 11, 2022
+
+**Today's Progress**: Started modeling out XML in my library.
 
 **Thoughts:** Reconciliation between data types is starting
 
