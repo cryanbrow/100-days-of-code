@@ -1245,3 +1245,41 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 72: March 12, 2022
+
+**Today's Progress**: Fell and hurt my knee, resting up mostly today.
+
+**Thoughts:** Resting up
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+none
+
+---
+### Day 73: March 13, 2022
+
+**Today's Progress**: Started work on the unified data model and resting my knee.
+
+**Thoughts:** Resting up
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+none
