@@ -1283,3 +1283,22 @@ none
 **Links to references used**:
 
 none
+
+---
+### Day 74: March 14, 2022
+
+**Today's Progress**: Ran into my first model that couldn't be unified between SDE and ESI so will now exist as two separate endpoints.
+
+**Thoughts:** This is a ton more work than I expected.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+none
