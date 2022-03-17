@@ -1322,3 +1322,23 @@ none
 
 1. [large schemas](https://compiledexperience.com/blog/posts/organizing-schemas)
 2. [large js schemas](https://cheatcode.co/tutorials/how-to-write-and-organize-a-graphql-schema-in-javascript)
+
+---
+### Day 76: March 16, 2022
+
+**Today's Progress**: Built out alliance queries and asset queries as well as asset data types.
+
+**Thoughts:** This will require some new types to be built but it's nice to be working on implementation again rather than just model building.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [large schemas](https://compiledexperience.com/blog/posts/organizing-schemas)
+2. [large js schemas](https://cheatcode.co/tutorials/how-to-write-and-organize-a-graphql-schema-in-javascript)
