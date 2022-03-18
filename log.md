@@ -1342,3 +1342,23 @@ none
 
 1. [large schemas](https://compiledexperience.com/blog/posts/organizing-schemas)
 2. [large js schemas](https://cheatcode.co/tutorials/how-to-write-and-organize-a-graphql-schema-in-javascript)
+
+---
+### Day 77: March 17, 2022
+
+**Today's Progress**: Built out bookmarks and calendars in the schema. I also watched a video explaining generics in Go 1.18.
+
+**Thoughts:** I may be able to refactor a lot of my code down into a single method using generics.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [generics video](https://youtu.be/SJ9rvg5nT2c)
+2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
