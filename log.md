@@ -1362,3 +1362,23 @@ none
 
 1. [generics video](https://youtu.be/SJ9rvg5nT2c)
 2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
+
+---
+### Day 78: March 18, 2022
+
+**Today's Progress**: Built out character schema on the graphql project.
+
+**Thoughts:** Generics might not actually solve all my problems. I spent a while trying to figure how to do it without shoehorning really janky stuff in.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [generics video](https://youtu.be/SJ9rvg5nT2c)
+2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
