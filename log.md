@@ -1382,3 +1382,23 @@ none
 
 1. [generics video](https://youtu.be/SJ9rvg5nT2c)
 2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
+
+---
+### Day 79: March 19, 2022
+
+**Today's Progress**: Built out clone schema on the graphql project.
+
+**Thoughts:** Lost my wallet today and stressed about that.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [generics video](https://youtu.be/SJ9rvg5nT2c)
+2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
