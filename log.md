@@ -1522,3 +1522,23 @@ none
 
 1. [generics video](https://youtu.be/SJ9rvg5nT2c)
 2. [go cheatsheet](https://www.golangdojo.com/wp-content/uploads/2021/12/Golang-Cheat-Sheet-by-Golang-Dojo.pdf)
+
+---
+### Day 85: March 25, 2022
+
+**Today's Progress**: Upgraded all my libraries and used the new tools package implementation within go. 
+
+**Thoughts:** Took a lot of debugging to figure out what was going on with the tools package.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [gqlgen install](https://github.com/99designs/gqlgen#quick-start)
+2. [tools impl](https://github.com/golang/go/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module)
