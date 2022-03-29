@@ -1562,3 +1562,23 @@ none
 
 1. [gqlgen install](https://github.com/99designs/gqlgen#quick-start)
 2. [tools impl](https://github.com/golang/go/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module)
+
+---
+### Day 88: March 28, 2022
+
+**Today's Progress**: Wrote some unit tests for the first time in a bit. Was tough to remember everything. Glad I came back when I did. 
+
+**Thoughts:** The days are getting easier but they are still really hard.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [gqlgen install](https://github.com/99designs/gqlgen#quick-start)
+2. [tools impl](https://github.com/golang/go/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module)
