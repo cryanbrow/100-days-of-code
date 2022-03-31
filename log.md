@@ -1602,3 +1602,23 @@ none
 
 1. [gqlgen install](https://github.com/99designs/gqlgen#quick-start)
 2. [tools impl](https://github.com/golang/go/wiki/Modules#how-can-i-track-tool-dependencies-for-a-module)
+
+---
+### Day 90: March 30, 2022
+
+**Today's Progress**: Took a break from implementing schemas and implemented a Protocol Buffer for the alliance type.
+
+**Thoughts:** Protocol Buffers make such a tiny data footprint, it's kind of crazy.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [protobuf install](https://developers.google.com/protocol-buffers/docs/gotutorial)
+2. [protobuf tutorial](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
