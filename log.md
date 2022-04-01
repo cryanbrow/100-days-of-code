@@ -1622,3 +1622,23 @@ none
 
 1. [protobuf install](https://developers.google.com/protocol-buffers/docs/gotutorial)
 2. [protobuf tutorial](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
+
+---
+### Day 91: March 31, 2022
+
+**Today's Progress**: Back to implementing schemas. I put in the Alliance Icon endpoint today.
+
+**Thoughts:** A while back I had worked on a command line app. I kind of want to get back into that some day.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [protobuf install](https://developers.google.com/protocol-buffers/docs/gotutorial)
+2. [protobuf tutorial](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
