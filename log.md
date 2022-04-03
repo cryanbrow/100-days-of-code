@@ -1662,3 +1662,23 @@ none
 
 1. [protobuf install](https://developers.google.com/protocol-buffers/docs/gotutorial)
 2. [protobuf tutorial](https://tutorialedge.net/golang/go-protocol-buffer-tutorial/)
+
+---
+### Day 93: April 2, 2022
+
+**Today's Progress**: Implmented Assets for a character ID or name today.
+
+**Thoughts:** Someone ran into me in my car today. Car is banged up and not really drivable.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+
+**Links to references used**:
+
+1. [vim configuration](https://tpaschalis.github.io/vim-go-setup/)
+2. [vim config 2](https://medium.com/pragmatic-programmers/configuring-vim-to-develop-go-programs-e839641da4ac)
