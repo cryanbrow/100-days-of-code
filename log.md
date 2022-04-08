@@ -1762,3 +1762,24 @@ none
 
 1. [vim configuration](https://tpaschalis.github.io/vim-go-setup/)
 2. [vim config 2](https://medium.com/pragmatic-programmers/configuring-vim-to-develop-go-programs-e839641da4ac)
+
+---
+### Day 98: April 7, 2022
+
+**Today's Progress**: I got burnt out on the nearly endless trudge that is completing the graphql application. I took a break and worked on creating a UI application for trade routes. I'm having a blast messing around with it.
+
+**Thoughts:** Got my pfsense router working.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+* [Eve Trade Route](https://github.com/cryanbrow/eve-trade-route)
+
+**Links to references used**:
+
+1. [vim configuration](https://tpaschalis.github.io/vim-go-setup/)
+2. [vim config 2](https://medium.com/pragmatic-programmers/configuring-vim-to-develop-go-programs-e839641da4ac)
