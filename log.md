@@ -1804,3 +1804,24 @@ none
 
 1. [vim configuration](https://tpaschalis.github.io/vim-go-setup/)
 2. [vim config 2](https://medium.com/pragmatic-programmers/configuring-vim-to-develop-go-programs-e839641da4ac)
+
+---
+### Day 100: April 9, 2022
+
+**Today's Progress**: I started building out the bookmark section of the GraphQL schema.
+
+**Thoughts:** I've slept like 16 hours today trying to catch up on all I missed. It's been a mostly fun 100 Days.
+
+**Link(s) to work**: 
+
+* [Eve GraphQL](https://github.com/cryanbrow/eve-graphql-go)
+* [Eve GraphQL Helm](https://github.com/cryanbrow/eve-graphql-helm)
+* [Docker for Eve GraphQL](https://hub.docker.com/repository/docker/cryanbrow/eve-graphql/general)
+* [Eve SDE load](https://github.com/cryanbrow/eve-sde-redis-load)
+* [Eve Data Model](https://github.com/cryanbrow/eve-graphql-shared-model)
+* [Eve Trade Route](https://github.com/cryanbrow/eve-trade-route)
+
+**Links to references used**:
+
+1. [vim configuration](https://tpaschalis.github.io/vim-go-setup/)
+2. [vim config 2](https://medium.com/pragmatic-programmers/configuring-vim-to-develop-go-programs-e839641da4ac)
